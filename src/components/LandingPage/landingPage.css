@@ -1,0 +1,106 @@
+.landing {
+    position: relative;
+    width: 412px;
+    height: 600px;
+    background: #E4F2F2;
+}
+
+.landing_title {
+    position: absolute;
+    left: .39%;
+    right: 31.11%;
+    top: 6.09%;
+    bottom: 89.38%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: right;
+    color: #5C7190;
+}
+
+
+.image {
+    position: absolute;
+    left: 10.56%;
+    right: 10.76%;
+    top: 16.41%;
+    bottom: 51.87%;
+}
+
+.description_landing {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 57.66%;
+    bottom: 0%;
+    background: #FFFFFF;
+    border-radius: 60px 0px 0px 0px;
+}
+
+
+
+.button_landing {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 20px 23px 20px;
+    text-decoration: none;
+    position: absolute;
+    left: 31.67%;
+    right: 32.5%;
+    top: 74.75%;
+    bottom: 15%;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 0px;
+    background: #198C9B;
+    border-radius: 20px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 18px;
+    color: #FFFFFF;
+}
+
+.subitle_landing {
+    position: absolute;
+    left: 13.06%;
+    right: 13.33%;
+    top: 10.97%;
+    bottom: 28.28%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    color: #000000;
+}
+
+.parrafo_landing {
+    position: absolute;
+    left: 9.44%;
+    right: 9.72%;
+    top: 38.47%;
+    bottom: 17.03%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #2C3747;
+}
+
+.arrow_landing {
+    position: absolute;
+    left: 80.33%;
+    right: -50%;
+    top: 30.83%;
+    bottom: 45.83%;
+}
